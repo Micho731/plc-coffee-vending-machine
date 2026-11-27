@@ -2,7 +2,7 @@
 
 A PLC program that runs a coffee vending machine from start to served cup, designed as a sequential function chart (SFC) and implemented in ladder logic for an Eaton easyE4 controller.
 
-**Built:** January 2025 · Industrial control course project ·
+**Built:** January 2025 · Industrial control course project
 **Status:** verified in the easySoft simulator; not deployed on physical hardware.
 
 ![Illustration of the vending machine wired to its PLC: coffee hopper, heated water tank, valves, mixer, cup dispenser and coin slot](media/illustration.png)
