@@ -75,4 +75,4 @@ No software? `program/ladder_program_printout.pdf` shows the whole program, and 
 
 ## Author
 
-**Michel Salame** — designed the SFC and wrote the complete ladder program. [LinkedIn](https://www.linkedin.com/in/michel-salame)
+**Michel Salame** — [LinkedIn](https://www.linkedin.com/in/michel-salame)
